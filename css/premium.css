@@ -11,6 +11,9 @@ p {
 
 body {
     background-image: url(/img/qwe.jpg);
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
 }
 
 .prem {
